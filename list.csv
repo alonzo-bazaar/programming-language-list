@@ -1,33 +1,44 @@
 name,website
 algol,https://en.wikipedia.org/wiki/ALGOL
 apl,https://aplwiki.com/
+arm/aarch64 assembly,https://www.arm.com/architecture
 awk,https://en.wikipedia.org/wiki/AWK
 b,https://en.wikipedia.org/wiki/B_(programming_language)
 bash,https://en.wikipedia.org/wiki/Bash_(Unix_shell)
 basic,https://en.wikipedia.org/wiki/BASIC
 bqn,https://mlochbaum.github.io/BQN/
-c,https://en.wikipedia.org/wiki/C_(programming_language)
 c#,https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
+c,https://en.wikipedia.org/wiki/C_(programming_language)
+c2,http://c2lang.org/
+c3,https://c3-lang.org
 clojure,https://www.clojure.org
 commom lisp,https://en.wikipedia.org/wiki/Common_Lisp
-d,https://en.wikipedia.org/wiki/D_(programming_language)
+d,https://dlang.org
 dart,https://dart.dev/
 elixir,https://elixir-lang.org/
+emacs lisp,https://www.gnu.org/software/emacs/
 erlang,https://www.erlang.org/
 forth,https://forth-standard.org/
 fortran,https://fortran-lang.org/
 gdbscript,https://en.wikipedia.org/wiki/GNU_Debugger#Scripting_support
 go,https://en.wikipedia.org/wiki/Go_(programming_language)
+guile,https://www.gnu.org/software/guile/
 haskell,https://www.haskell.org/?uwu=true
 intercal,https://en.wikipedia.org/wiki/INTERCAL
 java,https://www.java.com/en/
+javascript,https://ecma-international.org/publications-and-standards/standards/ecma-262/
+kotlin,https://kotlinlang.org/
 ksh,https://en.wikipedia.org/wiki/KornShell
 llvmir,https://en.wikipedia.org/wiki/LLVM#Intermediate_representation
+minecraft,https://www.minecraft.net
+mips assembly,https://en.wikipedia.org/wiki/MIPS_architecture
 ml,https://en.wikipedia.org/wiki/ML_(programming_language)
 nim,https://nim-lang.org/
 ocaml,https://ocaml.org/
+odin,https://odin-lang.org/
 pascal,https://en.wikipedia.org/wiki/Pascal_(programming_language)
 perl,https://www.perl.org/
+porth,https://gitlab.com/tsoding/porth
 posix shell,https://en.wikipedia.org/wiki/Bourne_shell
 q,https://en.wikipedia.org/wiki/Q_(programming_language_from_Kx_Systems)
 r,https://www.r-project.org/
@@ -38,8 +49,9 @@ standard ml,https://en.wikipedia.org/wiki/Standard_ML
 typescript,https://www.typescriptlang.org/
 uiua,https://www.uiua.org/
 verilog,https://en.wikipedia.org/wiki/Verilog
+vim motions,https://www.vim.org/
 wat (webassembly text),https://en.wikipedia.org/wiki/WebAssembly#Code_representation
-yacc,https://en.wikipedia.org/wiki/Yacc
 x86_64 assembly (intel syntax),https://en.wikipedia.org/wiki/X86_assembly_language#Syntax
+yacc,https://en.wikipedia.org/wiki/Yacc
 zig,https://ziglang.org/
 zsh,https://en.wikipedia.org/wiki/Z_shell
